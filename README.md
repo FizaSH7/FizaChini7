@@ -26,4 +26,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fizachini7&show_icons=true&theme=cobalt)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fizachini7&show_icons=true&locale=en&layout=compact" alt="fizachini7" /></p>
-
+<a href="https://github.com/fizachini7/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fizachini7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
