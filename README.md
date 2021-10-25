@@ -17,6 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/fiza991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fiza991" height="30" width="40" /></a>
+
+ <a href="fizasalim03@gmail.com" target="blank"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"  height="30" width="40" /></a>
 </p>
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  
