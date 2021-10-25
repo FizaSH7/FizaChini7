@@ -16,9 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/fiza991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fiza991" height="30" width="40" /></a>
 
- <a href="https://www.linkedin.com/in/fiza-ahmed-2a4384223/" target="blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"  height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fiza-ahmed-2a4384223/" target="_blank">
+   <img align="left" alt="Fiza Ahmed | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100065867741754" target="_blank">
+   <img align="left" alt="Fiza Ahmed | Facebook" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" />
+</a>
+
 </p>
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  
