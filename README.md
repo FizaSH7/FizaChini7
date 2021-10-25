@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about font-end development.
-- 📫 How to reach me :  [FACEBOOK](https://www.facebook.com/profile.php?id=100065867741754)
+- 📫 How to reach me :     [<img src="https://img.icons8.com/offices/30/000000/gmail-login.png"/>](fizasalim03@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I think I am funny..
 
