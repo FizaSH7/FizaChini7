@@ -3,7 +3,7 @@
 
  <h3 align="center">A passionate frontend developer from Bangladesh❤️❤️</h3>
 
-- 🔭 I’m currently working on web development.
+- 🔭 I’m currently working on web designer.
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about font-end development.
