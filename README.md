@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/fiza-salim-2a4384223/" target="_blank">
    <img align="left" alt="Fiza Salim | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100082084279094" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100082084279094"  target="_blank">
    <img align="left" alt="فیزا سلیم | Facebook" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" />
 </a>
 
