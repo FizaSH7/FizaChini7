@@ -27,7 +27,7 @@
 </p>
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{fizachini7}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FizaSH7}/count.svg" /></p> 
 <br>
 </div>
 <p align="center">
@@ -40,6 +40,6 @@
 
 ## 📊 My Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fizachini7&show_icons=true&theme=cobalt)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fizachini7&show_icons=true&locale=en&layout=compact" alt="fizachini7" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FizaSH7&show_icons=true&theme=cobalt)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fizachini7&show_icons=true&locale=en&layout=compact" alt="FizaSH7" /></p>
 <a href="https://github.com/fizachini7/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fizachini7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
